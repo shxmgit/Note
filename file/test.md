@@ -1,2 +1,2 @@
-#title#
-$y=x^2$
+# Title #
+# Second title #
